@@ -9,6 +9,7 @@ public class MovieMain {
         Actor kateWinslet = new Actor("Kate Winslet",1975);
         Actor billPaxton = new Actor("Bill Paxton",1955);
 
+
         movie.addActor(diCaprio);
         movie.addActor(kateWinslet);
         movie.addActor(billPaxton);
