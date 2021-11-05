@@ -1,7 +1,5 @@
 package day03;
 
-import day01.Actor;
-
 import java.util.ArrayList;
 import java.util.List;
 
